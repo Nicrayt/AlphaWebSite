@@ -13,7 +13,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background: #141b2d;
+  background: #1e2845;
   width: 100%;
   height: 50px;
   display: flex;
@@ -26,7 +26,6 @@ body {
   margin: 10px;
   margin-right: 10px;
   align-items: center;
-
 }
 .presentation {
   background: #141b2d;
@@ -41,7 +40,7 @@ body {
 }
 
 
-/* Text and Images */
+/* Texte et images et bouton */
 h1 {
   margin: 5px;
 }
@@ -54,5 +53,33 @@ a {
   text-decoration: none;
 }
 img {
+  width: 32px;
+  height: auto;
   border-radius: 15px;
+  padding: 5px;
+}
+.title {
+  margin-top: 20px;
+  font-size: 48px;
+  padding: 10px;
+}
+.soustitle {
+  font-size: 32px;
+  padding: 20px;
+}
+.minititle {
+  color: #3c404d;
+  font-size: 16px;
+  padding: 5px;
+}
+.bouton {
+  padding: 10px;
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  border-radius: 15px;
+  background: #3b82f6;
+  font-size: 18px;
+  font-family: Arial;
+  margin-bottom: 20px;
 }
