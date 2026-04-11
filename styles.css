@@ -60,8 +60,8 @@ img {
 }
 .imgplus {
   width: 128px;
-  width: auto;
-  border-raius: 20px;
+  height: auto;
+  border-raius: 30px;
   padding: 7px;
 } 
 .title {
