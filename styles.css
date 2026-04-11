@@ -58,6 +58,12 @@ img {
   border-radius: 15px;
   padding: 5px;
 }
+.imgplus {
+  width: 128px;
+  width: auto;
+  border-raius: 20px;
+  padding: 7px;
+} 
 .title {
   margin-top: 20px;
   font-size: 48px;
