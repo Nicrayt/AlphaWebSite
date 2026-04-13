@@ -89,3 +89,10 @@ img {
   font-family: Arial;
   margin-bottom: 20px;
 }
+.forbouton {
+  padding: 3px;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: right;
+}
